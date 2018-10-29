@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/WebTouchTestAssign/precache-manifest.441f118d848e8eac19a59c40ba30049a.js"
+  "/WebTouchTestAssign/precache-manifest.c545566fc250adaa983c4e353a814915.js"
 );
 
 workbox.clientsClaim();

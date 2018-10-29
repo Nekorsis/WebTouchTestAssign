@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/WebTouchTestAssign/static/css/main.49b17613.chunk.css"
   },
   {
-    "revision": "6e31527950d85d08802fee6cf7e66ab4",
+    "revision": "fc9065edccdfc5bf50deb084c55ae0c1",
     "url": "/WebTouchTestAssign/index.html"
   }
 ];
